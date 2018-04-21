@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-projecthoneypot",
+  "version": "1.0.3",
+  "description": "API implementation for projecthoneypot.com service",
+  "main": "projecthoneypot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlospolop/projecthoneypot_api.git"
+  },
+  "keywords": [
+    "projecthoneypot",
+    "api",
+    "malware",
+    "malicious",
+    "ip",
+    "suspicious",
+    "harvester",
+    "spammer"
+  ],
+  "author": "Carlos Polop <carlospolop@gmail.com> (https://malwareworld.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlospolop/projecthoneypot_api/issues"
+  },
+  "homepage": "https://github.com/carlospolop/projecthoneypot_api#readme",
+  "dependencies": {
+    "dns": "^0.2.2"
+  }
+}
